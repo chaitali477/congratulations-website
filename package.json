@@ -1,0 +1,27 @@
+{
+  "name": "birthday-celebration-template-main",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chaitali477/congratulations-website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chaitali477/congratulations-website/issues"
+  },
+  "homepage": "https://github.com/chaitali477/congratulations-website#readme",
+  "description": "",
+  "dependencies": {
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3"
+  },
+  "devDependencies": {
+    "vite": "^7.3.0"
+  }
+}
